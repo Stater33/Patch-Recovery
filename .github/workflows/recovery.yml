@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://public.by.files.1drv.com/y4mVXyrXNu9OgKNc96qFvZY5yiBw26kqDrwWzyq6IYN5R7Z8bD0VYPg6cA-3pjkpgm6SRtISbl8yhwhZx29vw41BXxrLCBD58kN-GD6yUcvlT_Ts1lE2pdQNk0lBOIr4blx_wWjF4ArPM__5p-ONj2I6cwuqkGyhUYJuw2eXbu55mArIWING6LOXwssr1nGjSIw6AhOd8Dyhv8LRGSyi2xeLqxcTu0a-rfHk5ZywACYfyI?AVOverride=1'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
